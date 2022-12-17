@@ -1,0 +1,2 @@
+This was the stable version of this bot, and many features were botched or poorly executed, and i was going to fix them in beta and merge them, but then i lost interest after making another bot
+Don't worry, most bad code here is fixed in the new bot.
